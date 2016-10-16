@@ -15,8 +15,8 @@ layout: default
             {% else %}
               {{ page.excerpt }}
             {% endif %}
-          </p>
-          <a href="{{ page.url | prepend: site.baseurl }}" class="post-link" style="float: right">mehr&hellip;</a>
+            <a href="{{ page.url | prepend: site.baseurl }}" class="post-link">&hellip;</a>
+          </p>          
         </div>
       {% endif %}{% endfor %}
     </div>
