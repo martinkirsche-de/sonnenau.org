@@ -112,10 +112,16 @@ $hljs-addition: $light-green;
 $hljs-change: $dark-blue;
 $hljs-chunk: $light-gray;
 
+// Header
+
+$header-bg-color: #fdc831;
+$header-color: #AF8200;
+$header-border-bottom: thin solid #E2A907;
+
 // Footer
-$footer-border-top: thin solid #f3f3f3;
+$footer-border-top: thin solid #E2A907;
 $footer-padding: $space-3;
-$footer-color: #7a7a7a;
-$footer-bg-color: #fafafa;
+$footer-color: #AF8200;
+$footer-bg-color: #fdc831;
 $footer-font-weight: 300;
 $footer-font-size: .75rem;

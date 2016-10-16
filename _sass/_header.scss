@@ -1,17 +1,22 @@
 .site-header {
   padding-top: $space-1;
   padding-bottom: $space-2;
+  background-color: $header-bg-color;
+  border-bottom: $header-border-bottom;
+}
+
+.site-header, .site-header * {
+  color: $header-color;
 }
 
 .site-header a {
-  color: #333;
   font-size: $h3;
   font-weight: 300;
   background-image: none;
 }
 
 .site-header .site-title {
-  font-size: $h2;
+  font-size: $h1;
 }
 
 .site-nav {
@@ -19,15 +24,15 @@
 }
 
 .site-header nav a {
-  color: #666;
+  color: $header-color;
 }
 
 .site-header nav a:hover,
 .site-header nav a:focus,
 .site-header nav a:active {
-  color: #444;
+  color: $header-color;
   opacity: 1;
-  border-bottom: 2px solid #444;
+  border-bottom: 2px solid $header-color;;
 }
 
 .site-nav a + a {
