@@ -10,10 +10,10 @@ date_format: "%b %-d, %Y"
 # Contact settings
 
 contact:
-  name: Pixyll
-  phone: +49 30 456789
-  street: Spandauer Straße 5
-  city: 10178 Berlin
+  name: SONNENAU Kinderbetreuung in Tagespflege Dresden e.V.
+  phone: +49 351 8584127
+  street: Schützenhofstr. 32
+  city: 01129 Dresden
 
 # Google services
 google_verification:
