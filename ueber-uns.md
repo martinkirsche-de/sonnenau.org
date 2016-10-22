@@ -6,7 +6,7 @@ show_on:    front, navigation, footer
 weight:     0
 ---
 
-SONNENAU Kinderbetreuung in Tagespflege Dresden e.V. heißt der erste Verein für Kinder, Eltern und Tagesmütter zur Förderung der Kinderbetreuung in Tagespflege in Dresden und Umgebung. Er wurde am 22.09.1994 gegründet.
+SONNENAU Kinderbetreuung in Tagespflege Dresden e.V. heißt der erste Verein für Kinder, Eltern, Tagesmütter und Tagesväter zur Förderung der Kinderbetreuung in Tagespflege in Dresden und Umgebung. Er wurde am 22.09.1994 gegründet.
 
 In unserem Handeln werden wir bestärkt durch die guten praktischen Erfahrungen aus Betreuungsverhältnissen unserer Vereinsmitglieder sowie durch die Ergebnisse eines in den Jahren 1974 bis 1979 im Auftrag des Bundesfamilienministers vom Deutschen Jugendinstitut durchgeführten Modellprojekts "Tagesmütter".
 
