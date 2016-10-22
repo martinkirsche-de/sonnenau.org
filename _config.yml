@@ -7,6 +7,14 @@ baseurl:     ""
 url:         "http://pixyll.com"
 date_format: "%b %-d, %Y"
 
+# Contact settings
+
+contact:
+  name: Pixyll
+  phone: +49 30 456789
+  street: Spandauer Straße 5
+  city: 10178 Berlin
+
 # Google services
 google_verification:
 # Use either direct GA implementation or set up GTM account

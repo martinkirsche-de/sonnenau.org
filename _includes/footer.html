@@ -1,9 +1,27 @@
 <footer class="center">
   <div class="measure">
-    <small>
-      Theme crafted with &lt;3 by <a href="http://johnotander.com">John Otander</a> (<a href="https://twitter.com/4lpine">@4lpine</a>).<br>
-      &lt;/&gt; available on <a href="https://github.com/johnotander/pixyll">Github</a>.
-    </small>
+    <div style="float:left; width: 33%">
+      <small>
+        {{ site.contact.name }}<br>
+        {{ site.contact.street }}<br>
+        {{ site.contact.city }}<br>
+      </small>
+    </div>
+    <div style="float:left; width: 33%">
+      <small>
+        <a href="mailto:{{ site.email }}">{{ site.email }}</a><br>
+        Tel.: <a href="tel:{{ site.contact.phone }}">{{ site.contact.phone }}</a>        
+      </small>
+    </div>
+    <div style="float:left; width: 33%">
+{% assign pages = site.pages | sort: "weight" %}
+{% for page in pages %}
+    {% if page.show_on contains "footer" %}
+        <a href="{{ page.url }}">{{ page.title }}</a><br>
+    {% endif %}
+{% endfor %}
+    </div>
+    
   </div>
 </footer>
 {% if site.enable_anchorjs %}<!-- AnchorJS -->

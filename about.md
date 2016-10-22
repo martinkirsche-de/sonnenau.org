@@ -2,7 +2,7 @@
 layout: page
 title: About Pixyll
 permalink: /about/
-show_on: front, navigation
+show_on: front, navigation, footer
 weight: 0
 ---
 
