@@ -2,7 +2,7 @@
 layout:     page
 title:      Kontakt
 show_on:    navigation, footer
-weight:     0
+weight:     1
 ---
 
 Schreiben Sie uns eine Mail an <a href="mailto:{{site.email}}">{{site.email}}</a>. Telefonisch erreichen Sie uns unter <a href="tel:{{ site.contact.phone }}">{{ site.contact.phone }}</a>.
