@@ -6,7 +6,7 @@ layout: default
     <div class="posts">
       {% assign pages = site.pages | sort: "weight" %}
       {% for page in pages  %}{% if page.show_on contains "front" %}
-        <div class="post py3">
+        <div class="post py1">
           <p class="post-meta">{{ page.date | date: site.date_format }}</p>
           <a href="{{ page.url | prepend: site.baseurl }}" class="post-link"><h3 class="h2 post-title">{{ page.title }}</h3></a>
           <p class="post-summary">
@@ -15,7 +15,7 @@ layout: default
             {% else %}
               {{ page.excerpt }}
             {% endif %}
-            <a href="{{ page.url | prepend: site.baseurl }}" class="post-link">&hellip;</a>
+            <a class="more-link" href="{{ page.url | prepend: site.baseurl }}" class="post-link">weiterlesen</a>
           </p>          
         </div>
       {% endif %}{% endfor %}

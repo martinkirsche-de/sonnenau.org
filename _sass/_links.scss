@@ -45,3 +45,14 @@ button,
     color: $link-hover-color;
     background-image: none;
 }
+
+.more-link {
+    font-family: 'Lato','Helvetica Neue',Helvetica,sans-serif; 
+    font-size: 0.6rem; 
+    font-weight: bold; 
+    border-radius: 12px; 
+    vertical-align: middle;
+    background: $link-color;
+    padding: 6px; 
+    color: white
+}
