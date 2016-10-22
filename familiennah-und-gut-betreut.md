@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     page
 title:      Kindertagespflege - familiennah und gut betreut
 summary:    Die Vorzüge der Kindertagespflege - gerade für Kinder unter drei Jahren - liegen in der familienähnlichen, intensiven und individuellen Betreuung in einer kleinen, übersichtlichen Kindergruppe.
 show_on:    front

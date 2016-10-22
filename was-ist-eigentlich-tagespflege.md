@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     page
 title:      Was ist eigentlich Tagespflege?
 summary:    Kindertagespflege ist eine besondere Form der Betreuung eines oder mehrerer Kinder für einen Teil des Tages oder ganztags durch eine Tagesmutter bzw. einen Tagesvater, meist in deren bzw. dessen Haushalt.
 show_on:    front

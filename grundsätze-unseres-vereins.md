@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     page
 title:      Grundsätze unseres Vereins
 summary:    Wir setzen uns für die Rechte von Kindern zur Förderung ihrer Entwicklung zu eigenverantwortlichen und gemeinschaftsfähigen Persönlichkeiten ein.
 show_on:    front

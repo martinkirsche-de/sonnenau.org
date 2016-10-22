@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     page
 title:      Aufgaben und Ziele unseres Vereins
 summary:    Beratung, Vermittlung, Aus- und Weiterbildung
 show_on:    front
