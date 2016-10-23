@@ -4,7 +4,7 @@ email:       info@sonnenau.org
 author:      Stephan Kirsche
 description: "Kinderbetreuung in Tagespflege Dresden e.V."
 baseurl:     ""
-url:         "http://beta.sonnenau.org"
+url:         "http://www.sonnenau.org"
 date_format: "%b %-d, %Y"
 
 # Contact settings
