@@ -10,7 +10,7 @@ SONNENAU Kinderbetreuung in Tagespflege Dresden e.V. heißt der erste Verein fü
 
 In unserem Handeln werden wir bestärkt durch die guten praktischen Erfahrungen aus Betreuungsverhältnissen unserer Vereinsmitglieder sowie durch die Ergebnisse eines in den Jahren 1974 bis 1979 im Auftrag des Bundesfamilienministers vom Deutschen Jugendinstitut durchgeführten Modellprojekts "Tagesmütter".
 
-Auch die Bindungs- und Entwicklungsforschung nimmt die Qualität frühkindlicher Betreuung zunehmend in den Blick. So heißt es beispielsweise im Fazit einer Studie von Frau Prof. DDr Lieselotte Ahnert, Universität Wien:
+Auch die Bindungs- und Entwicklungsforschung nimmt die Qualität frühkindlicher Betreuung zunehmend in den Blick. So heißt es beispielsweise im Fazit einer Studie von Frau Prof. Dr Lieselotte Ahnert, Universität Wien:
 
 1. Eine entwicklungsangemessene Kleinkindbetreuung zeichnet sich durch Anregung, Geborgenheit und Strukturiertheit aus.
 2. Die Umsetzung dieser Forderungen verlangt, dass eine Kleinkindbetreuung an den natürlichen kindlichen Kompetenzen und Lernfähigkeiten anknüpft und mit dem Kind eine stabile Gefühlswelt entwickelt sowie vorhersagbare Tagesabläufe gestaltet.
